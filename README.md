@@ -14,3 +14,9 @@ This is a Java quiz application designed to test users' knowledge. It provides a
 1.Java Development Kit (JDK) version 8 or higher
 2.Maven build tool
 3.MySQL database server
+
+
+**Contact**
+If you have any questions or need further assistance, feel free to contact the project maintainer at taniket819@gmail.com
+
+Feel free to customize this template based on your specific project requirements. Provide more detailed information about the application's functionalities, how to set up a secure connection, or any additional instructions if necessary.
