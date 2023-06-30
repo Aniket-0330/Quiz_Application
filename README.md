@@ -18,9 +18,6 @@ This is a Java quiz application designed to test users' knowledge. It provides a
 
 2.Maven build tool
 
-3.MySQL database server
-
-
 **Contact**
 
 If you have any questions or need further assistance, feel free to contact the project maintainer at taniket819@gmail.com
